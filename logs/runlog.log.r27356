@@ -1,0 +1,443 @@
+2020-04-23 09:21:47,882 desired_caps.py[line:51] INFO 异步添加之前port值：4723
+2020-04-23 09:21:47,882 desired_caps.py[line:52] INFO 异步添加之前i值：0
+2020-04-23 09:21:47,882 desired_caps.py[line:53] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 09:21:47,882 desired_caps.py[line:55] INFO 异步添加之后port值：4723
+2020-04-23 09:21:47,883 desired_caps.py[line:56] INFO 异步添加之后i值：0
+2020-04-23 09:21:47,883 desired_caps.py[line:57] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 09:21:47,883 desired_caps.py[line:51] INFO 异步添加之前port值：4725
+2020-04-23 09:21:47,883 desired_caps.py[line:52] INFO 异步添加之前i值：1
+2020-04-23 09:21:47,883 desired_caps.py[line:53] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 09:21:47,883 desired_caps.py[line:55] INFO 异步添加之后port值：4725
+2020-04-23 09:21:47,884 desired_caps.py[line:56] INFO 异步添加之后i值：1
+2020-04-23 09:21:47,884 desired_caps.py[line:57] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 09:21:48,503 desired_caps.py[line:51] INFO 异步添加之前port值：4723
+2020-04-23 09:21:48,503 desired_caps.py[line:52] INFO 异步添加之前i值：0
+2020-04-23 09:21:48,503 desired_caps.py[line:53] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 09:21:48,503 desired_caps.py[line:51] INFO 异步添加之前port值：4723
+2020-04-23 09:21:48,504 desired_caps.py[line:55] INFO 异步添加之后port值：4723
+2020-04-23 09:21:48,504 desired_caps.py[line:56] INFO 异步添加之后i值：0
+2020-04-23 09:21:48,504 desired_caps.py[line:52] INFO 异步添加之前i值：0
+2020-04-23 09:21:48,504 desired_caps.py[line:57] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 09:21:48,504 desired_caps.py[line:53] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 09:21:48,504 desired_caps.py[line:51] INFO 异步添加之前port值：4725
+2020-04-23 09:21:48,504 desired_caps.py[line:52] INFO 异步添加之前i值：1
+2020-04-23 09:21:48,504 desired_caps.py[line:55] INFO 异步添加之后port值：4723
+2020-04-23 09:21:48,504 desired_caps.py[line:53] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 09:21:48,505 desired_caps.py[line:57] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 09:21:48,505 desired_caps.py[line:55] INFO 异步添加之后port值：4725
+2020-04-23 09:21:48,505 desired_caps.py[line:51] INFO 异步添加之前port值：4725
+2020-04-23 09:21:48,505 desired_caps.py[line:56] INFO 异步添加之后i值：1
+2020-04-23 09:21:48,505 desired_caps.py[line:52] INFO 异步添加之前i值：1
+2020-04-23 09:21:48,505 desired_caps.py[line:57] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 09:21:48,505 desired_caps.py[line:53] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 09:21:48,505 desired_caps.py[line:55] INFO 异步添加之后port值：4725
+2020-04-23 09:21:48,505 desired_caps.py[line:56] INFO 异步添加之后i值：1
+2020-04-23 09:21:48,505 desired_caps.py[line:38] INFO start APP .....
+2020-04-23 09:21:48,505 desired_caps.py[line:57] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 09:21:48,506 desired_caps.py[line:38] INFO start APP .....
+2020-04-23 09:26:05,932 desired_caps.py[line:51] INFO 异步添加之前port值：4723
+2020-04-23 09:26:05,933 desired_caps.py[line:52] INFO 异步添加之前i值：0
+2020-04-23 09:26:05,933 desired_caps.py[line:53] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 09:26:05,934 desired_caps.py[line:55] INFO 异步添加之后port值：4723
+2020-04-23 09:26:05,935 desired_caps.py[line:56] INFO 异步添加之后i值：0
+2020-04-23 09:26:05,935 desired_caps.py[line:57] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 09:26:05,936 desired_caps.py[line:51] INFO 异步添加之前port值：4725
+2020-04-23 09:26:05,936 desired_caps.py[line:52] INFO 异步添加之前i值：1
+2020-04-23 09:26:05,936 desired_caps.py[line:53] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 09:26:05,938 desired_caps.py[line:55] INFO 异步添加之后port值：4725
+2020-04-23 09:26:05,939 desired_caps.py[line:56] INFO 异步添加之后i值：1
+2020-04-23 09:26:05,939 desired_caps.py[line:57] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 09:26:08,439 desired_caps.py[line:51] INFO 异步添加之前port值：4723
+2020-04-23 09:26:08,440 desired_caps.py[line:52] INFO 异步添加之前i值：0
+2020-04-23 09:26:08,441 desired_caps.py[line:53] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 09:26:08,441 desired_caps.py[line:55] INFO 异步添加之后port值：4723
+2020-04-23 09:26:08,442 desired_caps.py[line:56] INFO 异步添加之后i值：0
+2020-04-23 09:26:08,443 desired_caps.py[line:57] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 09:26:08,443 desired_caps.py[line:51] INFO 异步添加之前port值：4725
+2020-04-23 09:26:08,444 desired_caps.py[line:52] INFO 异步添加之前i值：1
+2020-04-23 09:26:08,444 desired_caps.py[line:53] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 09:26:08,444 desired_caps.py[line:55] INFO 异步添加之后port值：4725
+2020-04-23 09:26:08,445 desired_caps.py[line:56] INFO 异步添加之后i值：1
+2020-04-23 09:26:08,445 desired_caps.py[line:57] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 09:26:08,445 desired_caps.py[line:38] INFO start APP .....
+2020-04-23 09:26:09,714 desired_caps.py[line:51] INFO 异步添加之前port值：4723
+2020-04-23 09:26:09,715 desired_caps.py[line:52] INFO 异步添加之前i值：0
+2020-04-23 09:26:09,715 desired_caps.py[line:53] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 09:26:09,716 desired_caps.py[line:55] INFO 异步添加之后port值：4723
+2020-04-23 09:26:09,717 desired_caps.py[line:56] INFO 异步添加之后i值：0
+2020-04-23 09:26:09,717 desired_caps.py[line:57] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 09:26:09,718 desired_caps.py[line:51] INFO 异步添加之前port值：4725
+2020-04-23 09:26:09,718 desired_caps.py[line:52] INFO 异步添加之前i值：1
+2020-04-23 09:26:09,719 desired_caps.py[line:53] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 09:26:09,720 desired_caps.py[line:55] INFO 异步添加之后port值：4725
+2020-04-23 09:26:09,721 desired_caps.py[line:56] INFO 异步添加之后i值：1
+2020-04-23 09:26:09,721 desired_caps.py[line:57] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 09:26:09,722 desired_caps.py[line:38] INFO start APP .....
+2020-04-23 09:39:01,529 desired_caps.py[line:51] INFO 异步添加之前port值：4723
+2020-04-23 09:39:01,530 desired_caps.py[line:52] INFO 异步添加之前i值：0
+2020-04-23 09:39:01,530 desired_caps.py[line:53] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 09:39:01,530 desired_caps.py[line:55] INFO 异步添加之后port值：4723
+2020-04-23 09:39:01,530 desired_caps.py[line:56] INFO 异步添加之后i值：0
+2020-04-23 09:39:01,530 desired_caps.py[line:57] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 09:39:01,530 desired_caps.py[line:51] INFO 异步添加之前port值：4725
+2020-04-23 09:39:01,531 desired_caps.py[line:52] INFO 异步添加之前i值：1
+2020-04-23 09:39:01,531 desired_caps.py[line:53] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 09:39:01,531 desired_caps.py[line:55] INFO 异步添加之后port值：4725
+2020-04-23 09:39:01,531 desired_caps.py[line:56] INFO 异步添加之后i值：1
+2020-04-23 09:39:01,531 desired_caps.py[line:57] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 09:39:02,093 desired_caps.py[line:51] INFO 异步添加之前port值：4723
+2020-04-23 09:39:02,093 desired_caps.py[line:52] INFO 异步添加之前i值：0
+2020-04-23 09:39:02,093 desired_caps.py[line:53] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 09:39:02,094 desired_caps.py[line:55] INFO 异步添加之后port值：4723
+2020-04-23 09:39:02,094 desired_caps.py[line:56] INFO 异步添加之后i值：0
+2020-04-23 09:39:02,094 desired_caps.py[line:57] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 09:39:02,095 desired_caps.py[line:51] INFO 异步添加之前port值：4725
+2020-04-23 09:39:02,095 desired_caps.py[line:52] INFO 异步添加之前i值：1
+2020-04-23 09:39:02,095 desired_caps.py[line:51] INFO 异步添加之前port值：4723
+2020-04-23 09:39:02,095 desired_caps.py[line:53] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 09:39:02,095 desired_caps.py[line:52] INFO 异步添加之前i值：0
+4725
+2020-04-23 09:39:02,096 desired_caps.py[line:56] INFO 异步添加之后i值：1
+2020-04-23 09:39:02,096 desired_caps.py[line:57] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 09:39:02,096 desired_caps.py[line:38] INFO start APP .....
+2020-04-23 09:39:02,097 desired_caps.py[line:53] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 09:39:02,097 desired_caps.py[line:55] INFO 异步添加之后port值：4723
+2020-04-23 09:39:02,097 desired_caps.py[line:56] INFO 异步添加之后i值：0
+2020-04-23 09:39:02,097 desired_caps.py[line:57] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 09:39:02,098 desired_caps.py[line:51] INFO 异步添加之前port值：4725
+2020-04-23 09:39:02,098 desired_caps.py[line:52] INFO 异步添加之前i值：1
+2020-04-23 09:39:02,098 desired_caps.py[line:53] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 09:39:02,098 desired_caps.py[line:55] INFO 异步添加之后port值：4725
+2020-04-23 09:39:02,099 desired_caps.py[line:56] INFO 异步添加之后i值：1
+2020-04-23 09:39:02,099 desired_caps.py[line:57] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 09:39:02,099 desired_caps.py[line:38] INFO start APP .....
+2020-04-23 09:41:27,005 desired_caps.py[line:53] INFO 异步添加之前port值：4723
+2020-04-23 09:41:27,005 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 09:41:27,006 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 09:41:27,006 desired_caps.py[line:57] INFO 异步添加之后port值：4723
+2020-04-23 09:41:27,006 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 09:41:27,006 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 09:41:27,006 desired_caps.py[line:53] INFO 异步添加之前port值：4725
+2020-04-23 09:41:27,006 desired_caps.py[line:54] INFO 异步添加之前i值：1
+2020-04-23 09:41:27,006 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 09:41:27,007 desired_caps.py[line:57] INFO 异步添加之后port值：4725
+2020-04-23 09:41:27,007 desired_caps.py[line:58] INFO 异步添加之后i值：1
+2020-04-23 09:41:27,007 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 09:41:27,525 desired_caps.py[line:53] INFO 异步添加之前port值：4723
+2020-04-23 09:41:27,526 desired_caps.py[line:54] INFO 异步添加之前i值：0
+4723
+2020-04-23 09:41:27,526 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 09:41:27,526 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 09:41:27,526 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 09:41:27,526 desired_caps.py[line:57] INFO 异步添加之后port值：4723
+2020-04-23 09:41:27,527 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 09:41:27,527 desired_caps.py[line:57] INFO 异步添加之后port值：4723
+2020-04-23 09:41:27,527 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 09:41:27,527 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 09:41:27,527 desired_caps.py[line:53] INFO 异步添加之前port值：4725
+2020-04-23 09:41:27,527 desired_caps.py[line:54] INFO 异步添加之前i值：1
+2020-04-23 09:41:27,527 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 09:41:27,527 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 09:41:27,527 desired_caps.py[line:53] INFO 异步添加之前port值：4725
+2020-04-23 09:41:27,527 desired_caps.py[line:57] INFO 异步添加之后port值：4725
+2020-04-23 09:41:27,528 desired_caps.py[line:54] INFO 异步添加之前i值：1
+2020-04-23 09:41:27,530 desired_caps.py[line:58] INFO 异步添加之后i值：1
+2020-04-23 09:41:27,530 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 09:41:27,530 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 09:41:27,530 desired_caps.py[line:57] INFO 异步添加之后port值：4725
+2020-04-23 09:41:27,531 desired_caps.py[line:58] INFO 异步添加之后i值：1
+2020-04-23 09:41:27,531 desired_caps.py[line:39] INFO start APP .....
+2020-04-23 09:41:27,531 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 09:41:27,532 desired_caps.py[line:39] INFO start APP .....
+2020-04-23 09:51:04,566 desired_caps.py[line:53] INFO 异步添加之前port值：4723
+2020-04-23 09:51:04,567 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 09:51:04,567 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 09:51:04,567 desired_caps.py[line:57] INFO 异步添加之后port值：4723
+2020-04-23 09:51:04,568 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 09:51:04,568 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 09:51:04,568 desired_caps.py[line:53] INFO 异步添加之前port值：4725
+2020-04-23 09:51:04,568 desired_caps.py[line:54] INFO 异步添加之前i值：1
+2020-04-23 09:51:04,568 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 09:51:04,569 desired_caps.py[line:57] INFO 异步添加之后port值：4725
+2020-04-23 09:51:04,569 desired_caps.py[line:58] INFO 异步添加之后i值：1
+2020-04-23 09:51:04,569 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 09:51:05,116 desired_caps.py[line:53] INFO 异步添加之前port值：4723
+2020-04-23 09:51:05,116 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 09:51:05,116 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 09:51:05,117 desired_caps.py[line:57] INFO 异步添加之后port值：4723
+2020-04-23 09:51:05,117 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 09:51:05,117 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 09:51:05,117 desired_caps.py[line:53] INFO 异步添加之前port值：4725
+2020-04-23 09:51:05,117 desired_caps.py[line:54] INFO 异步添加之前i值：1
+2020-04-23 09:51:05,117 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 09:51:05,117 desired_caps.py[line:57] INFO 异步添加之后port值：4725
+2020-04-23 09:51:05,117 desired_caps.py[line:58] INFO 异步添加之后i值：1
+2020-04-23 09:51:05,117 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 09:51:05,118 desired_caps.py[line:39] INFO start APP .....
+2020-04-23 09:51:05,119 desired_caps.py[line:53] INFO 异步添加之前port值：4723
+2020-04-23 09:51:05,119 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 09:51:05,119 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 09:51:05,120 desired_caps.py[line:57] INFO 异步添加之后port值：4723
+2020-04-23 09:51:05,120 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 09:51:05,120 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 09:51:05,120 desired_caps.py[line:53] INFO 异步添加之前port值：4725
+2020-04-23 09:51:05,121 desired_caps.py[line:54] INFO 异步添加之前i值：1
+2020-04-23 09:51:05,121 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 09:51:05,122 desired_caps.py[line:57] INFO 异步添加之后port值：4725
+2020-04-23 09:51:05,122 desired_caps.py[line:58] INFO 异步添加之后i值：1
+2020-04-23 09:51:05,122 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 09:51:05,123 desired_caps.py[line:39] INFO start APP .....
+2020-04-23 10:02:21,761 desired_caps.py[line:53] INFO 异步添加之前port值：4723
+2020-04-23 10:02:21,761 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 10:02:21,761 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 10:02:21,761 desired_caps.py[line:57] INFO 异步添加之后port值：4723
+2020-04-23 10:02:21,762 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 10:02:21,762 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 10:02:21,763 desired_caps.py[line:53] INFO 异步添加之前port值：4725
+2020-04-23 10:02:21,763 desired_caps.py[line:54] INFO 异步添加之前i值：1
+2020-04-23 10:02:21,763 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 10:02:21,763 desired_caps.py[line:57] INFO 异步添加之后port值：4725
+2020-04-23 10:02:21,763 desired_caps.py[line:58] INFO 异步添加之后i值：1
+2020-04-23 10:02:21,763 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 10:02:22,541 desired_caps.py[line:53] INFO 异步添加之前port值：4723
+2020-04-23 10:02:22,542 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 10:02:22,542 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 10:02:22,544 desired_caps.py[line:57] INFO 异步添加之后port值：4723
+2020-04-23 10:02:22,545 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 10:02:22,545 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 10:02:22,546 desired_caps.py[line:53] INFO 异步添加之前port值：4725
+2020-04-23 10:02:22,546 desired_caps.py[line:54] INFO 异步添加之前i值：1
+2020-04-23 10:02:22,547 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 10:02:22,548 desired_caps.py[line:57] INFO 异步添加之后port值：4725
+2020-04-23 10:02:22,548 desired_caps.py[line:58] INFO 异步添加之后i值：1
+2020-04-23 10:02:22,548 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 10:02:22,552 desired_caps.py[line:53] INFO 异步添加之前port值：4723
+2020-04-23 10:02:22,553 desired_caps.py[line:39] INFO start APP .....
+2020-04-23 10:02:22,553 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 10:02:22,553 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 10:02:22,553 desired_caps.py[line:57] INFO 异步添加之后port值：4723
+2020-04-23 10:02:22,554 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 10:02:22,554 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 10:02:22,555 desired_caps.py[line:53] INFO 异步添加之前port值：4725
+2020-04-23 10:02:22,556 desired_caps.py[line:54] INFO 异步添加之前i值：1
+2020-04-23 10:02:22,556 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 10:02:22,557 desired_caps.py[line:57] INFO 异步添加之后port值：4725
+2020-04-23 10:02:22,557 desired_caps.py[line:58] INFO 异步添加之后i值：1
+2020-04-23 10:02:22,558 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 10:02:22,558 desired_caps.py[line:39] INFO start APP .....
+2020-04-23 10:04:36,204 desired_caps.py[line:53] INFO 异步添加之前port值：4723
+2020-04-23 10:04:36,205 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 10:04:36,205 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 10:04:36,205 desired_caps.py[line:57] INFO 异步添加之后port值：4723
+2020-04-23 10:04:36,205 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 10:04:36,205 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 10:04:36,205 desired_caps.py[line:53] INFO 异步添加之前port值：4725
+2020-04-23 10:04:36,206 desired_caps.py[line:54] INFO 异步添加之前i值：1
+2020-04-23 10:04:36,206 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 10:04:36,206 desired_caps.py[line:57] INFO 异步添加之后port值：4725
+2020-04-23 10:04:36,206 desired_caps.py[line:58] INFO 异步添加之后i值：1
+2020-04-23 10:04:36,206 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 10:04:36,870 desired_caps.py[line:53] INFO 异步添加之前port值：4723
+2020-04-23 10:04:36,870 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 10:04:36,870 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 10:04:36,870 desired_caps.py[line:57] INFO 异步添加之后port值：4723
+2020-04-23 10:04:36,871 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 10:04:36,872 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 10:04:36,872 desired_caps.py[line:53] INFO 异步添加之前port值：4725
+2020-04-23 10:04:36,872 desired_caps.py[line:53] INFO 异步添加之前port值：4723
+2020-04-23 10:04:36,872 desired_caps.py[line:54] INFO 异步添加之前i值：1
+2020-04-23 10:04:36,872 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 10:04:36,872 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 10:04:36,873 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 10:04:36,873 desired_caps.py[line:57] INFO 异步添加之后port值：4725
+2020-04-23 10:04:36,873 desired_caps.py[line:57] INFO 异步添加之后port值：4723
+2020-04-23 10:04:36,873 desired_caps.py[line:58] INFO 异步添加之后i值：1
+2020-04-23 10:04:36,873 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 10:04:36,873 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 10:04:36,874 desired_caps.py[line:53] INFO 异步添加之前port值：4725
+2020-04-23 10:04:36,874 desired_caps.py[line:54] INFO 异步添加之前i值：1
+2020-04-23 10:04:36,874 desired_caps.py[line:39] INFO start APP .....
+2020-04-23 10:04:36,874 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 10:04:36,874 desired_caps.py[line:57] INFO 异步添加之后port值：4725
+2020-04-23 10:04:36,874 desired_caps.py[line:58] INFO 异步添加之后i值：1
+2020-04-23 10:04:36,875 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 10:04:36,875 desired_caps.py[line:39] INFO start APP .....
+2020-04-23 10:05:31,919 desired_caps.py[line:53] INFO 异步添加之前port值：4723
+2020-04-23 10:05:31,920 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 10:05:31,920 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 10:05:31,920 desired_caps.py[line:57] INFO 异步添加之后port值：4723
+2020-04-23 10:05:31,920 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 10:05:31,920 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 10:05:31,921 desired_caps.py[line:53] INFO 异步添加之前port值：4727
+2020-04-23 10:05:31,921 desired_caps.py[line:54] INFO 异步添加之前i值：1
+2020-04-23 10:05:31,921 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 10:05:31,921 desired_caps.py[line:57] INFO 异步添加之后port值：4727
+2020-04-23 10:05:31,922 desired_caps.py[line:58] INFO 异步添加之后i值：1
+2020-04-23 10:05:31,922 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 10:05:32,625 desired_caps.py[line:53] INFO 异步添加之前port值：4723
+2020-04-23 10:05:32,625 desired_caps.py[line:53] INFO 异步添加之前port值：4723
+2020-04-23 10:05:32,626 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 10:05:32,626 desired_caps.py[line:54] INFO 异步添加之前i值：0
+：127.0.0.1:62001
+2020-04-23 10:05:32,626 desired_caps.py[line:57] INFO 异步添加之后port值：4723
+2020-04-23 10:05:32,626 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 10:05:32,627 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 10:05:32,627 desired_caps.py[line:57] INFO 异步添加之后port值：4723
+2020-04-23 10:05:32,627 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 10:05:32,627 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 10:05:32,627 desired_caps.py[line:53] INFO 异步添加之前port值：4727
+2020-04-23 10:05:32,627 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 10:05:32,627 desired_caps.py[line:54] INFO 异步添加之前i值：1
+2020-04-23 10:05:32,628 desired_caps.py[line:53] INFO 异步添加之前port值：4727
+2020-04-23 10:05:32,628 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 10:05:32,628 desired_caps.py[line:57] INFO 异步添加之后port值：4727
+2020-04-23 10:05:32,628 desired_caps.py[line:54] INFO 异步添加之前i值：1
+2020-04-23 10:05:32,628 desired_caps.py[line:58] INFO 异步添加之后i值：1
+2020-04-23 10:05:32,628 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 10:05:32,628 desired_caps.py[line:57] INFO 异步添加之后port值：4727
+0.0.1:62025
+2020-04-23 10:05:32,629 desired_caps.py[line:58] INFO 异步添加之后i值：1
+2020-04-23 10:05:32,629 desired_caps.py[line:39] INFO start APP .....
+2020-04-23 10:05:32,629 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 10:05:32,630 desired_caps.py[line:39] INFO start APP .....
+2020-04-23 10:10:32,954 desired_caps.py[line:53] INFO 异步添加之前port值：4723
+2020-04-23 10:10:32,955 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 10:10:32,955 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 10:10:32,955 desired_caps.py[line:57] INFO 异步添加之后port值：4723
+2020-04-23 10:10:32,955 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 10:10:32,956 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 10:10:33,494 desired_caps.py[line:53] INFO 异步添加之前port值：4723
+2020-04-23 10:10:33,494 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 10:10:33,494 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 10:10:33,494 desired_caps.py[line:57] INFO 异步添加之后port值：4723
+2020-04-23 10:10:33,494 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 10:10:33,495 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 10:10:33,495 desired_caps.py[line:39] INFO start APP .....
+2020-04-23 10:12:07,139 desired_caps.py[line:53] INFO 异步添加之前port值：4723
+2020-04-23 10:12:07,140 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 10:12:07,140 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 10:12:07,140 desired_caps.py[line:57] INFO 异步添加之后port值：4723
+2020-04-23 10:12:07,140 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 10:12:07,140 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 10:12:07,721 desired_caps.py[line:53] INFO 异步添加之前port值：4723
+2020-04-23 10:12:07,722 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 10:12:07,722 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 10:12:07,722 desired_caps.py[line:57] INFO 异步添加之后port值：4723
+2020-04-23 10:12:07,722 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 10:12:07,723 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 10:12:07,723 desired_caps.py[line:39] INFO start APP .....
+2020-04-23 10:12:52,968 desired_caps.py[line:53] INFO 异步添加之前port值：4727
+2020-04-23 10:12:52,968 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 10:12:52,968 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 10:12:52,969 desired_caps.py[line:57] INFO 异步添加之后port值：4727
+2020-04-23 10:12:52,969 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 10:12:52,969 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 10:12:53,484 desired_caps.py[line:53] INFO 异步添加之前port值：4727
+2020-04-23 10:12:53,484 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 10:12:53,485 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 10:12:53,485 desired_caps.py[line:57] INFO 异步添加之后port值：4727
+2020-04-23 10:12:53,485 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 10:12:53,485 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 10:12:53,486 desired_caps.py[line:39] INFO start APP .....
+2020-04-23 10:55:47,251 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 10:56:08,105 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 10:56:25,111 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 10:56:42,442 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 11:01:20,878 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 11:01:38,645 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 11:21:35,563 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 11:21:51,968 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 11:23:06,989 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 11:32:56,405 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 13:08:47,817 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 13:09:51,811 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 13:10:25,472 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 13:13:19,033 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 13:13:49,132 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 13:16:09,288 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 13:16:30,535 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 13:18:37,519 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 13:22:44,751 mult_desired.py[line:64] INFO 127.0.0.1:62001
+2020-04-23 13:22:44,752 mult_desired.py[line:65] INFO 127.0.0.1:62025
+2020-04-23 13:22:44,752 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 13:23:03,619 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 13:32:08,866 mult_desired.py[line:64] INFO 127.0.0.1:62001
+2020-04-23 13:32:08,866 mult_desired.py[line:65] INFO 127.0.0.1:62025
+2020-04-23 13:32:08,867 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 13:32:29,289 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 13:40:10,966 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 13:40:32,814 mult_desired.py[line:39] INFO start APP .....
+2020-04-23 13:44:13,554 desired_caps.py[line:53] INFO 异步添加之前port值：4727
+2020-04-23 13:44:13,555 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 13:44:13,555 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 13:44:13,555 desired_caps.py[line:57] INFO 异步添加之后port值：4727
+2020-04-23 13:44:13,555 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 13:44:13,555 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 13:44:13,555 desired_caps.py[line:53] INFO 异步添加之前port值：4727
+2020-04-23 13:44:13,556 desired_caps.py[line:54] INFO 异步添加之前i值：1
+2020-04-23 13:44:13,556 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 13:44:13,556 desired_caps.py[line:57] INFO 异步添加之后port值：4727
+2020-04-23 13:44:13,556 desired_caps.py[line:58] INFO 异步添加之后i值：1
+2020-04-23 13:44:13,556 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 13:44:14,221 desired_caps.py[line:53] INFO 异步添加之前port值：4727
+2020-04-23 13:44:14,221 desired_caps.py[line:53] INFO 异步添加之前port值：4727
+2020-04-23 13:44:14,222 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 13:44:14,222 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 13:44:14,222 desired_caps.py[line:57] INFO 异步添加之后port值：4727
+2020-04-23 13:44:14,222 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 13:44:14,222 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 13:44:14,222 desired_caps.py[line:57] INFO 异步添加之后port值：4727
+2020-04-23 13:44:14,222 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 13:44:14,223 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 13:44:14,223 desired_caps.py[line:53] INFO 异步添加之前port值：4727
+2020-04-23 13:44:14,223 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 13:44:14,223 desired_caps.py[line:54] INFO 异步添加之前i值：1
+2020-04-23 13:44:14,223 desired_caps.py[line:53] INFO 异步添加之前port值：4727
+2020-04-23 13:44:14,223 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 13:44:14,223 desired_caps.py[line:54] INFO 异步添加之前i值：1
+2020-04-23 13:44:14,223 desired_caps.py[line:57] INFO 异步添加之后port值：4727
+2020-04-23 13:44:14,223 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 13:44:14,223 desired_caps.py[line:58] INFO 异步添加之后i值：1
+2020-04-23 13:44:14,223 desired_caps.py[line:57] INFO 异步添加之后port值：4727
+2020-04-23 13:44:14,223 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 13:44:14,223 desired_caps.py[line:58] INFO 异步添加之后i值：1
+2020-04-23 13:44:14,223 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 13:44:14,224 desired_caps.py[line:39] INFO start APP .....
+2020-04-23 13:44:14,224 desired_caps.py[line:39] INFO start APP .....
+2020-04-23 13:44:45,681 desired_caps.py[line:53] INFO 异步添加之前port值：4723
+2020-04-23 13:44:45,681 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 13:44:45,681 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 13:44:45,682 desired_caps.py[line:57] INFO 异步添加之后port值：4723
+2020-04-23 13:44:45,682 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 13:44:45,682 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 13:44:45,682 desired_caps.py[line:53] INFO 异步添加之前port值：4725
+2020-04-23 13:44:45,683 desired_caps.py[line:54] INFO 异步添加之前i值：1
+2020-04-23 13:44:45,683 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 13:44:45,683 desired_caps.py[line:57] INFO 异步添加之后port值：4725
+2020-04-23 13:44:45,683 desired_caps.py[line:58] INFO 异步添加之后i值：1
+2020-04-23 13:44:45,684 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 13:44:46,481 desired_caps.py[line:53] INFO 异步添加之前port值：4723
+2020-04-23 13:44:46,481 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 13:44:46,481 desired_caps.py[line:54] INFO 异步添加之前i值：0
+2020-04-23 13:44:46,482 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 13:44:46,482 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62025
+2020-04-23 13:44:46,482 desired_caps.py[line:57] INFO 异步添加之后port值：4723
+2020-04-23 13:44:46,483 desired_caps.py[line:57] INFO 异步添加之后port值：4723
+2020-04-23 13:44:46,483 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 13:44:46,483 desired_caps.py[line:58] INFO 异步添加之后i值：0
+2020-04-23 13:44:46,483 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 13:44:46,483 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62025
+2020-04-23 13:44:46,483 desired_caps.py[line:53] INFO 异步添加之前port值：4725
+2020-04-23 13:44:46,483 desired_caps.py[line:53] INFO 异步添加之前port值：4725
+2020-04-23 13:44:46,483 desired_caps.py[line:54] INFO 异步添加之前i值：1
+2020-04-23 13:44:46,484 desired_caps.py[line:54] INFO 异步添加之前i值：1
+2020-04-23 13:44:46,484 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 13:44:46,484 desired_caps.py[line:55] INFO 异步添加之前设备IP值：127.0.0.1:62001
+2020-04-23 13:44:46,484 desired_caps.py[line:57] INFO 异步添加之后port值：4725
+2020-04-23 13:44:46,484 desired_caps.py[line:57] INFO 异步添加之后port值：4725
+2020-04-23 13:44:46,484 desired_caps.py[line:58] INFO 异步添加之后i值：1
+2020-04-23 13:44:46,485 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 13:44:46,485 desired_caps.py[line:59] INFO 异步添加之后设备IP值：127.0.0.1:62001
+2020-04-23 13:44:46,485 desired_caps.py[line:39] INFO start APP .....
+2020-04-23 13:44:46,485 desired_caps.py[line:39] INFO start APP .....
+2020-04-23 14:25:13,860 mult_desired.py[line:39] INFO start APP .....

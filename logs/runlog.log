@@ -1,0 +1,59 @@
+2020-05-20 19:47:36,437 run.py[line:24] INFO start run testcare....
+2020-05-20 19:47:36,438 myunit.py[line:9] INFO ======setUp======
+2020-05-20 19:47:36,441 desired_caps.py[line:35] INFO start APP .....
+2020-05-20 19:47:55,925 test_register.py[line:12] INFO ======test_user_regeister======
+2020-05-20 19:47:55,926 common_fun.py[line:18] INFO ======================check_cancelBtn=========================
+2020-05-20 19:47:56,515 common_fun.py[line:24] INFO ----click_cancelBtn----
+2020-05-20 19:47:57,442 common_fun.py[line:28] INFO ======================check_skinBtn======================
+2020-05-20 19:47:57,489 common_fun.py[line:34] INFO ----click_skipBtn----
+2020-05-20 19:47:57,523 registerView.py[line:50] INFO 点击注册按钮
+2020-05-20 19:47:58,477 registerView.py[line:53] INFO =========register_action===========
+2020-05-20 19:48:04,623 registerView.py[line:60] INFO register username is yuanFLY4389
+2020-05-20 19:48:07,006 registerView.py[line:64] INFO register_password is qqqq7839
+2020-05-20 19:48:08,143 registerView.py[line:68] INFO register_email is yuan3124@163.com
+2020-05-20 19:48:09,830 registerView.py[line:72] INFO click register button
+2020-05-20 19:48:12,025 registerView.py[line:82] INFO 进入信息完善选择界面
+2020-05-20 19:48:12,026 registerView.py[line:91] INFO ===========add_register_info===========
+2020-05-20 19:48:12,026 registerView.py[line:93] INFO 考试年份选择
+2020-05-20 19:48:12,809 registerView.py[line:99] INFO 注册院校一选择  天津-外国语大学
+2020-05-20 19:48:15,439 registerView.py[line:105] INFO 注册院校二选择   重庆-重庆理工
+2020-05-20 19:48:18,403 registerView.py[line:111] INFO 注册院校三选择  山东-中国石油大学
+2020-05-20 19:48:21,461 registerView.py[line:116] INFO 专业选择
+2020-05-20 19:48:25,548 registerView.py[line:122] INFO 点击进入考研帮按钮
+2020-05-20 19:48:26,520 common_fun.py[line:63] INFO =======check_market_ad=============
+2020-05-20 19:48:30,025 common_fun.py[line:69] INFO close market ad
+2020-05-20 19:48:30,059 registerView.py[line:127] INFO ==========check_registerStatus===========
+2020-05-20 19:48:32,491 registerView.py[line:137] INFO register success!
+2020-05-20 19:48:32,491 common_fun.py[line:58] INFO get register_success screenshot
+2020-05-20 19:48:32,851 myunit.py[line:13] INFO =======tearDown=======
+2020-05-20 19:49:22,456 run.py[line:24] INFO start run testcare....
+2020-05-20 19:49:22,456 myunit.py[line:9] INFO ======setUp======
+2020-05-20 19:49:22,459 desired_caps.py[line:35] INFO start APP .....
+2020-05-20 19:50:02,734 run.py[line:24] INFO start run testcare....
+2020-05-20 19:50:02,734 myunit.py[line:9] INFO ======setUp======
+2020-05-20 19:50:02,737 desired_caps.py[line:35] INFO start APP .....
+2020-05-20 19:50:21,388 test_register.py[line:12] INFO ======test_user_regeister======
+2020-05-20 19:50:21,388 common_fun.py[line:18] INFO ======================check_cancelBtn=========================
+2020-05-20 19:50:22,165 common_fun.py[line:24] INFO ----click_cancelBtn----
+2020-05-20 19:50:22,981 common_fun.py[line:28] INFO ======================check_skinBtn======================
+2020-05-20 19:50:23,021 common_fun.py[line:34] INFO ----click_skipBtn----
+2020-05-20 19:50:23,057 registerView.py[line:50] INFO 点击注册按钮
+2020-05-20 19:50:23,932 registerView.py[line:53] INFO =========register_action===========
+2020-05-20 19:50:29,039 registerView.py[line:60] INFO register username is yuanFLY2733
+2020-05-20 19:50:31,215 registerView.py[line:64] INFO register_password is qqqq5463
+2020-05-20 19:50:32,362 registerView.py[line:68] INFO register_email is yuan8166@163.com
+2020-05-20 19:50:34,045 registerView.py[line:72] INFO click register button
+2020-05-20 19:50:36,275 registerView.py[line:82] INFO 进入信息完善选择界面
+2020-05-20 19:50:36,275 registerView.py[line:91] INFO ===========add_register_info===========
+2020-05-20 19:50:36,276 registerView.py[line:93] INFO 考试年份选择
+2020-05-20 19:50:37,049 registerView.py[line:99] INFO 注册院校一选择  天津-外国语大学
+2020-05-20 19:50:39,684 registerView.py[line:105] INFO 注册院校二选择   重庆-重庆理工
+2020-05-20 19:50:42,664 registerView.py[line:111] INFO 注册院校三选择  山东-中国石油大学
+2020-05-20 19:50:45,717 registerView.py[line:116] INFO 专业选择
+2020-05-20 19:50:49,674 registerView.py[line:122] INFO 点击进入考研帮按钮
+2020-05-20 19:50:50,668 common_fun.py[line:63] INFO =======check_market_ad=============
+2020-05-20 19:50:54,208 common_fun.py[line:69] INFO close market ad
+2020-05-20 19:50:54,253 registerView.py[line:127] INFO ==========check_registerStatus===========
+2020-05-20 19:50:56,715 registerView.py[line:137] INFO register success!
+2020-05-20 19:50:56,715 common_fun.py[line:58] INFO get register_success screenshot
+2020-05-20 19:50:57,093 myunit.py[line:13] INFO =======tearDown=======
